@@ -1,0 +1,1 @@
+Simple. The api takes the image, the image gets sent onto there.
