@@ -1,1 +1,1 @@
-## *Homepage of QAvatars website
+## *Homepage of QAvatars website*
